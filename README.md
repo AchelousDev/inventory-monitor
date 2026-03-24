@@ -16,7 +16,6 @@ I wanted to build a project that demonstrates end-to-end system design, not just
 
 This project showcases how a monitoring system works in practice: tracking resources, detecting changes over time, and triggering notifications. Inventory monitoring was used as a concrete use case, but the same architecture applies to uptime monitoring, API health checks, or price tracking systems.
 
-Key capabilities of the system:
 ## Features
 
 - **Dashboard** — Dark-themed UI listing monitored products with status badges, last-checked time, change hints, and recent check history (per product).
