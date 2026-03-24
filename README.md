@@ -176,17 +176,14 @@ _Add screenshots of the Dashboard and Add Product flow here (e.g. `docs/screensh
 
 ## Author
 
-## Author
+**Richard Fan**
 
-Richard Fan  
-GitHub: https://github.com/AchelousDev 
-Portfolio: https://achelous.dev
+- GitHub: [github.com/AchelousDev](https://github.com/AchelousDev)
+- Portfolio: [achelous.dev](https://achelous.dev)
 
 ---
 
 ### Assumptions noted in this README
-
-- **Author** is left as a placeholder for you to personalize.
 - **Screenshots** are optional placeholders; no image files are included in the repo by default.
 - Default ports **3001** (API) and **5173** (Vite) match the project configuration; your environment may differ.
 - MongoDB must be reachable before the backend will start successfully; the app does not ship with an embedded database.
